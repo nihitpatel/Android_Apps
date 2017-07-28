@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_01376e4b63da4ad0ba28f505f2af61ac1428eefc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_2ce1329e30ecb73ba8171acbc7ac3db8d15525a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\okio-1.4.0_02e8d684457c33d400d80d5a9965600900cf1564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0b0f4f99cf68e748dd123ad553738e4284d4749">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-1.0.1_fbdbc68eb84ca727b00cbe12d3ecac38ffd5f6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_edaf77a92c02934276a7db952a9f85a2ec29a7fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_a14714632e1273074cff4f452e07aac05eb36bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_5bafa17cfeb20f6af37f57073c84cc255df655cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c02576ce83eb0fafbe36dda98dbfcf7c6562fe3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_830e9b7d027eb826f56d20bbcc8fd05ba3a331b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fde5bc28416e067b68245fcb6f303e8b39f95ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_29ca1ee428c911bd494a9edcba5b7cb9e301d8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_bf47f94a8ff329e0b0bd06e459e1feb5e792c62f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c6d55d42bf2d89ee1c77881f95441767e7e28a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_4768cc445d82dac641bbd0cbd73eecf3eed1947e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.theartofdev.edmodo\android-image-cropper\2.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.theartofdev.edmodo-android-image-cropper-2.3.1_b713a5e7c8f3a5c51daa4de739b6470f3d123a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_b41615318348503e60d00dce0173e784820dc845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_5f4a0dda393ddd26827d2cf9e5e268815c5261bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_cf76aab42be12925c32a9c0b0a24a646fed2b359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_679bd9ede85dc689b32f7d9fcd4599f49c6cc6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_8c6af93b24d28883eb5702cb4cf84cedbb78d9f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_8bca34690a2024ca5c391a18f6e57c904412e980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_42fa20a665c7f7db173caa446e28d618f3bdce5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_677962bc09b8dd833019f7a5212743f218696103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_04174590ca2e877b77fdd2bdca120b1208f22f48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_62d7c92949e39695c565c439dc023da992535396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_8f493337c2dff35b5df0fffce8208fcc93aa5bb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_65679cf559fd309def32bf2c9d199b1fe10d06fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_bb8491df16760f65d000b3d38e93c41f86de1bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_722ab0add70a3e28aec0eefbad2cbe27898e3735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b9c2be0182630f02c3ef73656ea519da349f5b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_ffd919b8863183298fc47bec516f74f7ed192a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_6acaeff0f4565fbccbef2b6aa3307e1d7d38b11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_bda10693399c8678e79ba0fd3bfdb220bed413c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_67dd5d86e0128abb2212f589cda8915849976607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fa96a7fb9546859f1fa49d4a66edd0fa8e1356cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Blog\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_c8eb874f1ea748c0911f520927861e918a0c108f.jar" />
+    </item>
+
+</items>
